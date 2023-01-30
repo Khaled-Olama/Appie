@@ -469,6 +469,7 @@ ul {
     padding: 42px;
     background-color: white;
     border: 1px solid #e8e8e8;
+    border-radius: 6px;
 }
 @media (max-width: 992px) {
     .features .container .features-container .features-card {
@@ -785,18 +786,22 @@ ul {
 .pages .container .pages-body .cards .card1 {
     box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
     padding: 50px;
+    border-radius: 8px;
 }
 .pages .container .pages-body .cards .card2 {
     box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
     padding: 50px;
+    border-radius: 8px;
 }
 .pages .container .pages-body .cards .card3 {
     box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
     padding: 50px;
+    border-radius: 8px;
 }
 .pages .container .pages-body .cards .card4 {
     box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
     padding: 50px;
+    border-radius: 8px;
 }
 .pages .container .pages-body .cards h2 {
     color: var(--secondery-color);
@@ -1587,7 +1592,8 @@ ul {
     gap: 1rem;
 }
 .footer .container .column .col4 span {
-    font-weight: 400;
+    font-weight: 500;
+    border-radius: 8px;
 }
 .footer .container .column .col4 .email,
 .footer .container .column .col4 .phone,
