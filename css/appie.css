@@ -1647,6 +1647,7 @@ ul {
     border: none;
     border-radius: 6px;
     padding: 10px 30px;
+    margin-bottom: 8px;
     cursor: pointer;
 }
 .footer .container .row .android-btn {
@@ -1654,6 +1655,7 @@ ul {
     border: 2px solid var(--main-border-color);
     border-radius: 6px;
     padding: 10px 30px;
+    margin-bottom: 15px;
     cursor: pointer;
 }
 .footer .container .row .android-btn:hover {
