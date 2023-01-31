@@ -1293,6 +1293,7 @@ ul {
     .review .container .review-text-box p {
         width: 98%;
         text-align: center;
+        padding: 20px;
     }
 }
 .review .container .review-img-box {
